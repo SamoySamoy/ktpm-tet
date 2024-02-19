@@ -1,9 +1,10 @@
 ![Docker](image.png)
 ![Docker compose](image-1.png)
+<br>
 <i>Bản thân Linux chỉ là một Kernel, nó không phải là một hệ điều hành hoàn chỉnh. Hệ điều hành mà các bạn có thể vẫn đang sử dụng thực tế trên máy tính của mình có tên là GNU/Linux, nhưng có lẽ vì cái tên nó dài dòng nên người ta đã gọi ngắn gọn nó là Linux chăng. Việc lược bỏ đi GNU trong tên gọi hệ điều hành được cho là không công bằng, và đánh giá thấp vai trò của GNU. Tuy nhiên, biết sao được, nhiều người vẫn dùng cái tên Linux để thay cho tên gọi hệ điều hành GNU/Linux. Và khi nhắc đến Hệ Điều Hành Linux, ta cần hiểu đó là Hệ Điều Hành GNU/Linux. Trong series này tôi cũng sẽ sử dụng cách gọi đó, hệ điều hành Linux.
 Hệ điều hành Linux hoàn toàn không sử dụng chung, hay kế thừa bất kỳ phần code nào của Unix, hay BSD. Nó được xây dựng mới hoàn toàn bởi Linus và GNU Project để có thể trở thành … một phiên bản clone của Unix. Chính vì thế Linux và các hệ điều hành con cháu của Unix hiện nay (như MacOS chẳng hạn) có rất nhiều điểm giống nhau.</i>
 
-Unix là một hệ điều hành vốn ra đời đã từ rất lâu, tại phòng thí nghiệm Bell Labs của AT&T. Dự án được dẫn dắt bởi Ken Thompson và Dennis Ritchie, 2 nhà khoa học máy tính nổi tiếng.
+Unix là một hệ điều hành vốn ra đời đã từ rất lâu, tại phòng thí nghiệm Bell Labs của AT&T. Dự án được dẫn dắt bởi Ken Thompson và Dennis Ritchie, 2 nhà khoa học máy tính nổi tiếng
 <br>
 
 Những năm sau của thập niên 70, AT&T chia sẻ Unix cho những tổ chức giáo dục, hay tổ chức thương mại bên ngoài, từ đó dẫn đến sự ra đời của nhiều phiên bản Unix khác nhau. Nổi bật nhất trong số đó là phiên bản giáo dục được xây dựng bởi Computer Systems Research Group thuộc đại học California, Berkeley. Phiên bản này được biết đến rộng rãi với cái tên Berkeley Software Distribution, hay BSD.
